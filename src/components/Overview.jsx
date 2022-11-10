@@ -53,7 +53,7 @@ const Overview = () => {
       </ListGroup>
 
       <Row>
-        <Col className="d-flex justify-content-end">
+        <Col className="d-flex justify-content-center">
           <Button
             type="button"
             className="mt-3 mobile"
