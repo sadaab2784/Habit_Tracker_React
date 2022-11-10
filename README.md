@@ -4,7 +4,8 @@ React app to start tracking habits for next seven days. we can add, delete and c
 ## Hosted Link:
 https://sadaab2784-habit-tracker.netlify.app/
 
-![Loop-Habit-Tracker](https://user-images.githubusercontent.com/106314415/201139345-003c12d2-897a-42f0-8f76-569938715ee6.png)
+<img width="958" alt="Screenshot (63)" src="https://user-images.githubusercontent.com/106314415/201146574-efd2ed3c-5d1c-44e3-a2e9-c2cdbe6061b0.png">
+
 
 
 # Getting Started with Create React App
