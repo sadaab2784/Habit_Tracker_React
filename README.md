@@ -12,6 +12,7 @@ https://sadaab2784-habit-tracker.netlify.app/
 
 <br/>
 
+![Loop-Habit-Tracker (1)](https://user-images.githubusercontent.com/106314415/201147402-3979290c-23ab-4c8e-b82f-d45d3f69c5e4.png)
 
 
 # Getting Started with Create React App
